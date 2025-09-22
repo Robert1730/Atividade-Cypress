@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "test": "cypress run",
+        "cy:open": "cypress open"
+    },
+    "devDependencies": {
+        "@faker-js/faker": "^7.6.0",
+        "@shelex/cypress-allure-plugin": "^2.41.2",
+        "allure-commandline": "^2.34.1",
+        "cypress": "^15.2.0"
+    }
+}
